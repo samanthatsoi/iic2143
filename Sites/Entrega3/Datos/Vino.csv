@@ -1,0 +1,241 @@
+vinoid,vinaid,vino_nombre,vino_descripcion,cepa,vino_precio
+0,0,MerlotMURTA,Assumenda dolores hic. Eligendi tenetur excepturi consequatur illo cupiditate tempore.,MERLOT ,10537.61
+1,0,BonardaBERRAL,Illum quam eaque voluptas quia. Nemo iste repellendus veritatis eveniet velit voluptatum. Harum sint maxime nihil possimus nulla.,BONARDA ,11975.38
+2,0,MerlotRAYO,Quaerat tenetur quidem nulla consequatur consequatur possimus. Explicabo consequatur quae beatae. Assumenda eveniet corrupti dolores aperiam.,MERLOT ,22954.99
+3,0,SyrahDE,Molestias atque ea accusantium et tenetur. Quae iste cupiditate tempore quis distinctio dolorum. Culpa tempora minima illo. Nisi dolorem placeat.,SYRAH ,7267.45
+4,0,MalbecRABEL,Mollitia molestiae consequatur dignissimos in nisi. Dolores id illo quos fugit.,MALBEC ,22444.85
+5,1,BonardaDE,Expedita ipsum odio modi cum. Recusandae minima voluptatem nisi vero amet. Voluptatum ipsa unde modi amet minima exercitationem.,BONARDA ,13837.69
+6,1,MerlotACANTILADO,Illum aliquam facere tenetur corrupti molestiae. Itaque ratione unde voluptatum eaque.,MERLOT ,15092.1
+7,1,TannahALBERITE,Reiciendis error eveniet deserunt impedit commodi quasi. Aliquid sapiente cum tenetur quaerat architecto.,TANNAH ,6605.7
+8,1,BonardaOJO,Culpa temporibus cupiditate facere deleniti mollitia iusto. Amet deserunt aspernatur est sapiente enim. Omnis nesciunt magni dolorem dolor tenetur molestias.,BONARDA ,18033.74
+9,1,Cabernet FrancLA,Excepturi sapiente consequuntur commodi quidem. Eius laborum iste aspernatur magni aliquam ratione voluptatem. Quasi molestias accusamus libero provident occaecati.,CABERNET FRANC ,2362.86
+10,2,Petit VerdotNACIMIENTOS,Adipisci modi nobis earum earum ipsum unde velit. Praesentium illum necessitatibus ipsum voluptate amet enim numquam. Recusandae architecto libero sed molestias.,PETIT VERDOT ,10504.67
+11,2,TannahDE,Non esse aut totam nulla. Expedita harum aperiam harum.,TANNAH ,4485.61
+12,2,MerlotPOZOS,Aspernatur doloribus nisi quae numquam explicabo facilis. Ducimus eum cum culpa inventore. Consequuntur aut sed saepe.,MERLOT ,3879.88
+13,2,Petit VerdotMARCHANTES,Maiores sapiente quasi deserunt numquam. Eveniet sed quaerat quo totam eligendi tempore. Necessitatibus praesentium quas quod cum doloribus animi.,PETIT VERDOT ,14662.15
+14,2,Petit VerdotROCHE,Maxime doloremque quaerat a mollitia. Assumenda itaque vel sit debitis nobis tenetur. Quod cum minus earum necessitatibus alias.,PETIT VERDOT ,17415.94
+15,3,Cabernet SauvignonTREN,Sed rem minima dicta quas fuga. Delectus corporis ut quis rerum eaque. Pariatur adipisci distinctio dolorum nemo recusandae iste. Quasi assumenda a magnam a.,CABERNET SAUVIGNON ,8101.28
+16,3,MerlotLITORAL,Delectus quasi fugit totam corrupti quis commodi. Distinctio dolor odio quis fuga deserunt. Labore impedit reprehenderit aliquid. Vero labore ea magni.,MERLOT ,11071.31
+17,3,TannahVERDE,Magnam fugit minus odio ipsa magni voluptates. Aliquid autem magni maiores maxime.,TANNAH ,21530.02
+18,3,Cabernet FrancREMEDIOS,Cumque sequi rem consectetur quia maiores. Rem id fugiat quia.,CABERNET FRANC ,4232.04
+19,3,Cabernet FrancESPERANZA,Deserunt tenetur debitis. Sapiente vitae iste animi eum earum. Illo mollitia minima accusamus nobis. Velit odit est ullam.,CABERNET FRANC ,2129.46
+20,4,Cabernet SauvignonHONDÓN,Et placeat culpa aliquid. Magni ab laboriosam repudiandae.,CABERNET SAUVIGNON ,11858.9
+21,4,Cabernet SauvignonALBINA,Atque eveniet corrupti.,CABERNET SAUVIGNON ,20125.07
+22,4,SyrahSIMANCÓN,Natus esse tenetur culpa doloremque ex veritatis dolore. Dolore ex provident facilis accusamus quia incidunt. Dolor assumenda velit commodi sunt molestiae dolores.,SYRAH ,15178.2
+23,4,TannahDE,Error aspernatur voluptatem porro repellendus sunt fugit. Officia tempore ullam suscipit corporis autem.,TANNAH ,3874
+24,4,BonardaBARROSA,Tempore consequuntur sit praesentium nemo quasi. Suscipit esse quaerat numquam sit ut. Laudantium veritatis quis officia totam ex.,BONARDA ,7963.75
+25,5,Petit VerdotY,Eum iusto laudantium laudantium architecto laboriosam. Perspiciatis odio atque quas ducimus. Quam maxime temporibus inventore animi a sed.,PETIT VERDOT ,13012.77
+26,5,Cabernet SauvignonTAJO,Vel dolore illo sint maxime consectetur eum. Assumenda numquam expedita quisquam dolore.,CABERNET SAUVIGNON ,20937.21
+27,5,MalbecDEL,Sit perferendis quos suscipit ex necessitatibus. Sequi mollitia magni fugiat cupiditate blanditiis voluptatem. Accusamus odit nesciunt odio illum facilis.,MALBEC ,20849.35
+28,5,TannahCAÑUELO,Enim consequuntur deleniti nostrum vero. Similique quo atque.,TANNAH ,23180.69
+29,5,MerlotROCHE,Vel omnis ab odio nihil consequuntur qui aspernatur. Eveniet architecto molestiae recusandae soluta eos vel.,MERLOT ,6232.51
+30,6,MalbecBORNOS,Voluptatibus eaque quas saepe. Modi minus ad molestiae.,MALBEC ,16478.13
+31,6,Petit VerdotCANCHA,Velit placeat esse voluptate voluptates occaecati expedita. Provident eos veniam consectetur natus consectetur reiciendis. Rerum recusandae quasi ipsum odit.,PETIT VERDOT ,17217.9
+32,6,Petit VerdotLOS,Tenetur ex voluptatibus odio totam ipsum temporibus facere. Et libero repudiandae quaerat eveniet nihil quod. Accusantium iure sit vel facilis. Eligendi esse iusto.,PETIT VERDOT ,16332.43
+33,6,Petit VerdotBOLONIA-PULIDO,Unde numquam totam minima architecto maiores. Ipsam voluptates delectus earum iusto inventore. Enim numquam porro fugit non non amet.,PETIT VERDOT ,5767.32
+34,6,MerlotSALINA,Ipsa laborum molestias vitae iure.,MERLOT ,12030.78
+35,7,Cabernet SauvignonTRAMO,Laborum facere sed exercitationem occaecati ratione aliquam. Beatae excepturi unde quidem placeat.,CABERNET SAUVIGNON ,2574.33
+36,7,BonardaUBRIQUE,Quidem doloremque deserunt iste consequatur possimus ratione. Dolore adipisci necessitatibus repellendus culpa tenetur magnam.,BONARDA ,5411.61
+37,7,SyrahBOYAR,At soluta cumque ullam. Ad atque et vero voluptatem accusantium nisi. Labore voluptate voluptates eveniet.,SYRAH ,5002.59
+38,7,MerlotMAJACEITE,Distinctio voluptatum doloremque. Quod illo esse at aspernatur eum reprehenderit vitae.,MERLOT ,7993.48
+39,7,SyrahCERRO,Eos facere nisi pariatur minus. Totam dignissimos optio debitis tenetur iure totam. Unde distinctio iste officia impedit minima.,SYRAH ,18380.02
+40,8,BonardaDEL,Impedit quisquam animi reprehenderit nihil. Dignissimos quia molestias reiciendis distinctio enim rerum. Rem id consequuntur possimus optio alias earum.,BONARDA ,20990.87
+41,8,MalbecDEL,Quo quaerat natus officia repellendus. Necessitatibus amet quae sit minus. Nulla fugit atque ullam possimus ducimus.,MALBEC ,3667.02
+42,8,MalbecCANTARRANAS-CORREDOR,Id aspernatur fuga deleniti quis fugiat. Eligendi sit voluptatem sint blanditiis eaque.,MALBEC ,12102.73
+43,8,Cabernet FrancALGARBES-BETIJUELO,Assumenda odio ad exercitationem voluptas cupiditate necessitatibus. Quasi consequatur reiciendis nobis praesentium ad porro.,CABERNET FRANC ,6000.69
+44,8,Cabernet SauvignonDE,Minus fuga sequi dolorem perspiciatis numquam nihil fugiat. Asperiores natus accusamus. Reprehenderit veritatis quas saepe blanditiis eos asperiores.,CABERNET SAUVIGNON ,3575
+45,9,BonardaTEJA,Repudiandae blanditiis mollitia excepturi id excepturi ad. Nihil nulla vitae.,BONARDA ,10461.78
+46,9,Petit VerdotGUAREÑAS,Ipsam ex neque. Occaecati minus natus unde deleniti distinctio explicabo. Aut aspernatur ea doloremque molestiae culpa exercitationem.,PETIT VERDOT ,15385.13
+47,9,Petit VerdotLOS,Et iste soluta voluptate dolore amet. Ducimus aspernatur culpa repellat consectetur. Dolores nostrum necessitatibus doloremque illum totam molestias expedita.,PETIT VERDOT ,12803.99
+48,9,TannahSANTO,Quo ducimus quos fuga. Praesentium vero aliquam minus consequatur iste. Voluptate quaerat dolorem reprehenderit accusamus vitae molestiae.,TANNAH ,5787.74
+49,9,MerlotDE,Ipsa numquam esse aut officiis architecto nisi. Commodi quasi doloremque at.,MERLOT ,18056.2
+50,10,Petit VerdotVERDE,Porro reprehenderit occaecati nostrum eum velit. Debitis impedit saepe alias vero. Aspernatur autem aut quo placeat.,PETIT VERDOT ,16723.23
+51,10,Cabernet Sauvignon-,Corporis incidunt similique voluptatibus. Iusto necessitatibus distinctio voluptatem nemo doloribus at. Nobis qui quisquam ipsum odio.,CABERNET SAUVIGNON ,7482.54
+52,10,SyrahCHARCO,Expedita rem perspiciatis magni. Vero ab ullam nihil impedit asperiores. Aut dignissimos expedita illo.,SYRAH ,10034.6
+53,10,SyrahLOS,Sed veritatis mollitia iure cum quae nesciunt. Neque quas magni molestiae consequatur nulla officiis.,SYRAH ,12966.1
+54,10,TannahACANTILADO,Quae inventore voluptate ipsa ut consectetur amet. Consequuntur voluptatem aut labore.,TANNAH ,5493.21
+55,11,SyrahBOQUERÓN,Repudiandae voluptas non delectus impedit dolor fugit natus. Neque animi distinctio dolorem dolores. Veritatis similique corporis velit rem.,SYRAH ,19964.45
+56,11,Petit VerdotVENTA,Labore ipsum autem. Inventore et debitis dignissimos quasi quisquam molestiae sequi.,PETIT VERDOT ,6061.81
+57,11,Cabernet FrancCAPITÁN,Quasi voluptatem totam illum quasi beatae velit. Dolore voluptatibus reiciendis minus similique maiores facilis.,CABERNET FRANC ,23880.02
+58,11,TannahDEL,Nemo est dolor voluptatum natus ullam quidem animi. Quo neque hic ratione sunt odio iure.,TANNAH ,8863.42
+59,11,Petit VerdotZAFRAMAGÓN,At quae eos maiores maxime eos commodi. Vel esse odit dolorem natus autem. Commodi sit neque temporibus.,PETIT VERDOT ,12397.16
+60,12,Cabernet SauvignonEMBALSE,Cupiditate eligendi quas. A iste recusandae quia accusamus id cupiditate. Qui earum sequi assumenda facilis quod quod adipisci.,CABERNET SAUVIGNON ,10572.11
+61,12,Cabernet FrancVERDE,Laudantium culpa aut perspiciatis sapiente. At ad voluptate aut assumenda suscipit dolor.,CABERNET FRANC ,12271.43
+62,12,SyrahBRAÑAHONDA,Assumenda dignissimos nisi incidunt natus.,SYRAH ,21023.84
+63,12,MalbecVÍA,Explicabo sequi magnam dolore rerum provident. Sunt ipsa deserunt odio tempora. Nesciunt dolorem reiciendis consectetur.,MALBEC ,24584.4
+64,12,TannahLA,Ullam sit dolorum perspiciatis optio dignissimos saepe. Voluptatum eos nostrum expedita. Ratione quis nisi sunt. Culpa amet nulla reprehenderit quis reprehenderit labore.,TANNAH ,4306.87
+65,13,Petit VerdotCABRERO,Doloremque qui totam vero accusamus beatae itaque quam. Assumenda iste nam repellat. Aliquam autem recusandae quo cum recusandae.,PETIT VERDOT ,6464.9
+66,13,SyrahLAGUNA,Facere nobis ad adipisci eum aperiam itaque. Est facilis minus vel.,SYRAH ,12518.05
+67,13,MerlotCHAVARRIA,Inventore exercitationem laudantium occaecati. Sed quas ad illum et.,MERLOT ,7611.09
+68,13,Cabernet FrancMORÓN-MIRADOR,Id dolore libero sed tempora veritatis corrupti modi. Sit sapiente autem veniam minus pariatur.,CABERNET FRANC ,14733.32
+69,13,Petit VerdotCARBONEROS,Reprehenderit dolorum dolor dolor. Doloremque nisi minus reprehenderit quos.,PETIT VERDOT ,23344.37
+70,14,SyrahPLATA,Rem minima quos deserunt maiores facilis. Non magni ratione.,SYRAH ,18188.29
+71,14,MalbecDE,Sapiente nesciunt expedita. Aliquam quas corporis possimus ducimus. Inventore at facere laudantium quae repellat tenetur. Eum cupiditate eveniet unde soluta.,MALBEC ,6483.79
+72,14,Cabernet FrancCALZADA,Nisi quidem vitae rem impedit tempore. Facere officia sapiente voluptatum id consequatur ea. Laborum quam tenetur vero necessitatibus repudiandae autem.,CABERNET FRANC ,14311.09
+73,14,BonardaQUEBRADAS,Nesciunt quo quisquam incidunt hic. Reprehenderit voluptas tenetur consequuntur aut. Ipsam culpa ut temporibus.,BONARDA ,19835.46
+74,14,BonardaPLATA,Accusamus doloribus quos. Nam vero sit iure itaque facere.,BONARDA ,19572.48
+75,15,TannahLLANOS,Minus aliquam sequi vitae quisquam culpa. Unde asperiores magnam molestias iure. Temporibus quas illum quaerat deleniti provident.,TANNAH ,23460.99
+76,15,TannahDEL,Sit repudiandae iste molestiae veniam neque ea. Dolor iusto occaecati facere facilis reiciendis quasi. Debitis voluptate minima eum.,TANNAH ,20054.92
+77,15,Cabernet SauvignonDE,Corrupti doloremque repellendus est aliquid odit consequuntur. Iste vero quae excepturi nihil commodi.,CABERNET SAUVIGNON ,15414.87
+78,15,MerlotDE,Optio quia quam. Voluptas fugit corrupti repellat cum nesciunt sunt. Sequi maxime beatae eveniet. Itaque eos eligendi explicabo quisquam debitis assumenda nulla.,MERLOT ,14805.16
+79,15,BonardaSUARA,Dolorem eveniet fuga ut soluta quidem totam. Rem occaecati voluptas rem. Excepturi amet eum quam nobis.,BONARDA ,6355.8
+80,16,SyrahCERRO,Assumenda facere debitis nobis laboriosam perferendis perferendis. Animi sint perferendis molestiae nemo quis ipsam optio. Suscipit alias sequi enim ducimus laudantium.,SYRAH ,15483.57
+81,16,Cabernet FrancDE,Dolorum impedit perspiciatis. Eligendi perferendis quasi officia praesentium optio libero iste. Aliquam adipisci ex molestias repudiandae aliquam laboriosam.,CABERNET FRANC ,4480.83
+82,16,Petit VerdotSIERRAS,At voluptates iusto adipisci pariatur. Alias vero deserunt incidunt laborum aspernatur ad.,PETIT VERDOT ,3591.97
+83,16,Cabernet FrancRUTA,Nihil iste voluptatibus in.,CABERNET FRANC ,2785.31
+84,16,Cabernet SauvignonDEL,Aliquam quod voluptatibus necessitatibus optio tempora et. Maxime recusandae sint reiciendis.,CABERNET SAUVIGNON ,22944.3
+85,17,MalbecJIMENA,Aliquam id aspernatur labore ratione. Temporibus quia ipsum laborum nemo est.,MALBEC ,19810.02
+86,17,MerlotDE,Voluptates facilis dolore laudantium provident. Illum officiis adipisci quibusdam. Voluptates suscipit dolorum sed consequatur earum aliquid. Veniam porro quos sapiente cupiditate.,MERLOT ,23948.36
+87,17,TannahALGODONALES-LOS,Adipisci architecto similique reiciendis deserunt sint. Nemo quam architecto corporis.,TANNAH ,4486.03
+88,17,"Cabernet SauvignonJUNCOSA""",Eaque magni totam libero quod autem.,CABERNET SAUVIGNON ,10918.3
+89,17,BonardaPUERTA,Nisi eaque quasi omnis. Asperiores veritatis amet quo unde sint eos. Earum praesentium maiores magnam temporibus officia corrupti voluptates.,BONARDA ,9275.44
+90,18,Cabernet SauvignonAL,Veniam libero est fugiat. Omnis molestias voluptatibus corporis soluta voluptate at veritatis.,CABERNET SAUVIGNON ,4938.98
+91,18,SyrahDOS,Maiores ut assumenda officia. Sapiente voluptatem ipsam laboriosam. Dignissimos eveniet magni amet vel rem deserunt.,SYRAH ,6367.06
+92,18,TannahZAHARA,Veritatis debitis animi molestiae doloribus ex officia. Eum quibusdam perferendis quis laborum nam. Tenetur quod aliquam delectus fugiat maxime porro.,TANNAH ,6049.23
+93,18,TannahPUERTO,Consequatur soluta aliquam ipsam enim deleniti voluptas. Vitae illo magnam asperiores.,TANNAH ,24664.3
+94,18,BonardaPEDRIZA,Ab culpa ullam autem. Ipsa aliquam magni fuga quos. Delectus harum eius culpa asperiores.,BONARDA ,19303.11
+95,19,BonardaDEL,Perspiciatis dolor at odio. Eos alias esse. Ullam perspiciatis est consequatur vel.,BONARDA ,10072.81
+96,19,Cabernet FrancDEL,Expedita aperiam praesentium ratione quae. Possimus ullam provident atque consectetur quasi.,CABERNET FRANC ,7834.25
+97,19,Petit VerdotDE,Sit ipsa ipsam quas magni commodi quasi. Quis amet occaecati suscipit pariatur blanditiis. Cumque illo consequatur repudiandae. Minus repellendus eum.,PETIT VERDOT ,6707.26
+98,19,TannahDE,Delectus soluta mollitia ducimus nihil iste laborum labore. Expedita quia molestiae iure.,TANNAH ,13961.6
+99,19,SyrahDEHESA,Quod repellendus ad soluta sit ipsam iusto. Repellat doloribus beatae corrupti nisi mollitia numquam. Fugiat officiis odio labore.,SYRAH ,14367.9
+100,20,MerlotDE,Commodi vero quas voluptatibus dicta vel. Dolores laudantium et ullam. Placeat deleniti sequi optio adipisci libero magnam placeat.,MERLOT ,4058.36
+101,20,TannahAL,Saepe porro dicta beatae doloremque. Perferendis facere nisi similique.,TANNAH ,21466.57
+102,20,Petit VerdotGUADALETE,Explicabo voluptatem similique temporibus doloremque. Architecto tenetur ipsam sunt voluptate tempora.,PETIT VERDOT ,10211.83
+103,20,BonardaTRES,Totam explicabo modi eius sapiente. Suscipit ipsam velit. Optio minima excepturi repellat officiis optio.,BONARDA ,10489.77
+104,20,Cabernet SauvignonMEDIEVAL,Distinctio quasi quisquam quis expedita error praesentium. Ratione consequuntur suscipit id earum.,CABERNET SAUVIGNON ,21510.64
+105,21,TannahJESÚS,Impedit sequi pariatur impedit magni atque eaque. Libero molestias iure quibusdam perspiciatis est deleniti. Architecto id ipsum ex repellat repudiandae veritatis omnis.,TANNAH ,19572.64
+106,21,SyrahMUELA-LOS,Distinctio cumque accusamus quibusdam illum.,SYRAH ,14426.01
+107,21,MerlotSALINAS,Alias magnam quo. Unde accusantium iusto provident.,MERLOT ,5099.04
+108,21,SyrahMONTECOCHE,Omnis voluptas perferendis reiciendis consectetur. Suscipit facere maxime odit. Officiis eos nostrum accusamus laboriosam et minus.,SYRAH ,14104.27
+109,21,MalbecEL,Commodi vel officia alias rem. Doloremque perferendis aliquid nam libero maiores. Excepturi exercitationem asperiores ex molestiae.,MALBEC ,13340.7
+110,22,SyrahPILAR,Architecto deleniti maiores dolorum. Possimus ea sit consequuntur.,SYRAH ,24060.7
+111,22,Cabernet SauvignonMEDINA,Tenetur quis sequi perspiciatis commodi explicabo. Ullam quis repudiandae doloremque.,CABERNET SAUVIGNON ,7924.93
+112,22,SyrahLA,Ipsum assumenda accusantium mollitia pariatur officia tempore. Sint repudiandae corporis deserunt.,SYRAH ,9381.62
+113,22,SyrahGARGANTE,Incidunt repudiandae praesentium culpa aut sed. Ex consequatur praesentium quia magnam ducimus nisi.,SYRAH ,16605.93
+114,22,MerlotCABRITO,Molestiae sed velit quasi. Iste ipsa culpa tenetur quidem saepe repudiandae. Recusandae velit rem praesentium optio.,MERLOT ,6846.19
+115,23,Cabernet FrancDE,Rem quisquam beatae harum eius. Maxime porro culpa numquam sunt ratione. Enim modi officiis ducimus.,CABERNET FRANC ,9390.17
+116,23,MalbecPAPA,Ipsam veniam animi voluptatibus similique id. Excepturi illum voluptatibus odio assumenda corrupti.,MALBEC ,15982.96
+117,23,TannahPAJARRACO,Qui at minima quis sapiente sunt. Quae hic provident quidem. Ipsa tempore laudantium soluta modi beatae. Est aliquid nobis placeat perspiciatis officia odio.,TANNAH ,9305.7
+118,23,BonardaBALLENA-CHIPIONA,Nulla pariatur harum eius deleniti laboriosam. Tenetur debitis sint sequi dolorum accusantium excepturi. Fugit provident rerum placeat distinctio repudiandae.,BONARDA ,18024.05
+119,23,MalbecDE,Eligendi iusto et officiis. Veritatis deleniti veritatis tempore ipsa dolore sunt. Dignissimos eligendi dolores quo modi.,MALBEC ,3998.91
+120,24,MalbecDEL,Tempore cupiditate quo nisi totam libero.,MALBEC ,17457.85
+121,24,TannahTRAMO,Magni blanditiis sit blanditiis nulla magnam sapiente. Voluptatem architecto sapiente ullam sit occaecati. Esse voluptas qui dicta. Temporibus eos fugiat perferendis suscipit ea ut illum.,TANNAH ,20111.78
+122,24,SyrahROCINEJO,Eveniet odio iure velit mollitia. Quae odio debitis voluptatum.,SYRAH ,10185.65
+123,24,Cabernet SauvignonDE,Delectus culpa nisi consequatur soluta voluptatum. Libero vero laudantium praesentium officia vero numquam blanditiis. Corporis fugiat cum tempora qui mollitia incidunt consectetur.,CABERNET SAUVIGNON ,23721.93
+124,24,MerlotLAS,Facilis mollitia esse necessitatibus sequi. Esse assumenda molestias voluptas facere.,MERLOT ,12252.11
+125,25,SyrahDE,Placeat ab dolore ullam. Quos nisi architecto vitae.,SYRAH ,10296.98
+126,25,SyrahDEL,Perferendis corporis reprehenderit mollitia explicabo.,SYRAH ,5256.33
+127,25,Cabernet FrancCHICLANA,Suscipit delectus pariatur rerum tempore voluptatem recusandae. Quae earum praesentium at ex ut. Quaerat eos occaecati.,CABERNET FRANC ,7811.3
+128,25,Cabernet FrancMARÍA,Sapiente assumenda autem hic. Deserunt odit tempore aspernatur iste. Nulla officiis veniam velit tempore amet corporis fugit.,CABERNET FRANC ,16344.44
+129,25,MalbecDE,Doloremque ab fuga laborum quae reiciendis quos.,MALBEC ,17252.86
+130,26,MerlotVENTA,Adipisci nihil ut reprehenderit reiciendis unde minima veritatis. Assumenda tempora officiis ducimus.,MERLOT ,4707.72
+131,26,SyrahLA,Ratione sequi animi quia saepe ut. Reiciendis quisquam dignissimos eum. Animi facilis quos.,SYRAH ,15361.11
+132,26,SyrahALGAR,Voluptatibus voluptatem deserunt veritatis placeat corrupti. Aspernatur est iste veniam quam quaerat. Reiciendis incidunt quisquam quae quae nulla.,SYRAH ,3485.47
+133,26,SyrahDE,Perspiciatis corporis sunt. Aliquam reiciendis omnis incidunt. Nobis nam id.,SYRAH ,3280.35
+134,26,BonardaPÍCARO,Optio voluptatum expedita architecto ex. Natus velit beatae quis laudantium.,BONARDA ,23916.93
+135,27,Petit VerdotCENTENARIO,Esse beatae officia. Illo ea quas vitae alias odit. Unde deleniti quam autem laborum eum recusandae. Aliquam impedit cumque ea occaecati repellat.,PETIT VERDOT ,10804.36
+136,27,Petit VerdotDEL,Inventore nihil ducimus excepturi ex. Saepe esse itaque possimus quisquam magnam. Quo dolorum aliquam esse dolorem tempora.,PETIT VERDOT ,7111.3
+137,27,Cabernet FrancPUERTA,Aspernatur at iste recusandae voluptatem nostrum distinctio.,CABERNET FRANC ,16933.53
+138,27,SyrahDE,Recusandae quos laboriosam quos porro aut. Adipisci corrupti dolorem eos vitae itaque. Officiis nostrum dolores assumenda minus ad.,SYRAH ,24674.73
+139,27,Cabernet SauvignonVERDE,Nostrum quibusdam ipsam mollitia quibusdam. Quos accusantium dolorem reprehenderit eius delectus eaque. Odio voluptates cupiditate.,CABERNET SAUVIGNON ,9658.19
+140,28,TannahATALAYA,Dolore necessitatibus rerum molestiae beatae.,TANNAH ,10594.6
+141,28,Cabernet SauvignonDE,Aliquid neque iure. Praesentium sequi veniam. Perspiciatis incidunt architecto magni fuga quo dolorum.,CABERNET SAUVIGNON ,8271.74
+142,28,MalbecALHAJA,Eum quia esse expedita accusantium tenetur commodi. Fuga iste rem explicabo officiis ipsam nobis. Ea ex modi vero libero consequuntur. Odit reiciendis nostrum.,MALBEC ,19382.54
+143,28,SyrahATUNES-ATLANTERRA,Asperiores iure officia laboriosam dicta qui minus. Ipsam laborum ducimus. Odit aliquid dolor cum vel nisi.,SYRAH ,8238.64
+144,28,Cabernet SauvignonDEL,At iusto fugiat ducimus reiciendis recusandae. Incidunt dignissimos repellat quisquam pariatur necessitatibus autem. Facilis totam asperiores voluptatibus.,CABERNET SAUVIGNON ,5078.82
+145,29,MalbecTEJA,Qui placeat quis perspiciatis magni. Totam animi nisi accusamus ab aliquam magni. Vel vitae optio consequatur odit.,MALBEC ,20361.82
+146,29,Cabernet FrancRUTA,Nobis quasi sapiente veniam totam sequi.,CABERNET FRANC ,20794.77
+147,29,MalbecFRONTERA,Commodi maxime quasi voluptates ipsa. Quos doloremque et quos natus accusamus provident.,MALBEC ,13330.6
+148,29,BonardaFRONTERIZO,Velit aspernatur ullam aliquam deserunt. Quam necessitatibus tempora nesciunt. Suscipit perspiciatis est eum corporis quasi voluptas.,BONARDA ,22382.73
+149,29,Cabernet FrancCÁDIZ,Perspiciatis optio sit ea vitae fugit. Inventore explicabo exercitationem at animi. Aspernatur atque neque minima enim accusantium adipisci.,CABERNET FRANC ,11517.84
+150,30,BonardaBOSQUE,Quisquam esse officia iste quibusdam quisquam. Sapiente ipsam maxime vitae quis aut provident itaque. Corrupti provident quidem iusto consequatur occaecati ducimus.,BONARDA ,24561.6
+151,30,SyrahMATAGORDA,Saepe laborum distinctio ullam quas aliquid voluptas.,SYRAH ,23099.96
+152,30,MalbecDE,Officiis labore voluptates harum aliquid dicta esse sapiente. Ipsam quibusdam ratione neque accusamus exercitationem ab.,MALBEC ,18024.44
+153,30,BonardaDE,Voluptatem delectus doloremque voluptate autem. Quia cum repellat eius sequi consectetur. Beatae deleniti est beatae.,BONARDA ,5026.61
+154,30,Cabernet SauvignonCÁMARA,Ratione excepturi inventore reprehenderit vero. Voluptatum beatae dignissimos unde similique consequuntur cum maxime.,CABERNET SAUVIGNON ,4718.22
+155,31,TannahBARBATE,Temporibus error ipsa voluptate soluta rem. Quod aperiam quidem maiores a nam.,TANNAH ,19225.36
+156,31,Cabernet SauvignonPASARELAS,Illo distinctio quod architecto impedit sequi ducimus a. Accusantium saepe voluptas reiciendis aspernatur.,CABERNET SAUVIGNON ,3389.03
+157,31,BonardaQUEBRADAS,Iure pariatur cupiditate facilis laudantium. Minus veniam qui.,BONARDA ,13288.64
+158,31,MerlotFRESNILLO,Ex ad est error quisquam. Asperiores exercitationem libero perspiciatis aliquid sint rerum. Neque commodi iusto similique.,MERLOT ,19156.5
+159,31,MerlotDE,Blanditiis tenetur totam tempora et saepe expedita fugit. Numquam autem ipsam repellendus occaecati molestias impedit. Occaecati quasi beatae harum laborum quidem quis.,MERLOT ,5813.7
+160,32,Cabernet SauvignonARROYO,Dignissimos consequuntur magnam molestiae a officia tempora. Illum architecto dolor nobis molestias laborum vel modi.,CABERNET SAUVIGNON ,9202.27
+161,32,Cabernet FrancDE,Eos dicta rem optio impedit.,CABERNET FRANC ,8760.81
+162,32,BonardaCÁDIZ,Velit delectus magni dicta magnam.,BONARDA ,17849.26
+163,32,TannahDE,Laborum magnam reprehenderit eaque incidunt sint dolores. Fugiat occaecati laboriosam sit.,TANNAH ,23643.02
+164,32,MerlotMUELA-LOS,Ullam consequuntur quis nobis aut.,MERLOT ,13438.19
+165,33,BonardaDEL,Cum deleniti occaecati. Numquam maiores nihil laudantium. Velit quibusdam quia ipsa.,BONARDA ,23035.11
+166,33,MerlotDE,Quam debitis occaecati ducimus. Repellat iste praesentium illum vel incidunt.,MERLOT ,17558.37
+167,33,MerlotPINAR,Corrupti assumenda dicta. Ea consectetur sunt nihil.,MERLOT ,3639.44
+168,33,Cabernet SauvignonDE,Iusto voluptatem dolores sint optio qui ipsa. Hic temporibus veritatis corporis ducimus repellendus iusto. Corrupti ex iste vitae laboriosam sequi.,CABERNET SAUVIGNON ,8625.67
+169,33,BonardaDEL,Aliquam neque maiores aliquid ea natus unde commodi. Quas saepe optio quaerat velit.,BONARDA ,12549.29
+170,34,TannahOSCURO,Repudiandae rerum voluptas non illum.,TANNAH ,12264.48
+171,34,SyrahALTO,Corrupti provident laudantium.,SYRAH ,23292.95
+172,34,TannahDE,Voluptate qui dolorum nemo fugiat minus dolores. Iste rerum sunt laboriosam quibusdam vero voluptatem. Accusantium delectus fuga atque minus impedit.,TANNAH ,11994.8
+173,34,Cabernet SauvignonLA,Ut dolor hic odit. Molestiae fugit aspernatur culpa. Facilis natus veniam ut.,CABERNET SAUVIGNON ,6674.11
+174,34,MalbecY,Provident quia perspiciatis modi. Optio nam exercitationem rem explicabo. Ea consequatur sit sunt et. Minus aspernatur animi incidunt.,MALBEC ,17426.92
+175,35,MerlotBARRIDA,A pariatur sit voluptates eos. Placeat earum iure voluptate.,MERLOT ,24307.85
+176,35,Cabernet SauvignonTAJO,Delectus incidunt consectetur velit similique minus totam. Perspiciatis ipsa eligendi quis expedita.,CABERNET SAUVIGNON ,5880.26
+177,35,SyrahALTO,Mollitia occaecati odio error cum doloribus. Sapiente nemo omnis omnis iste possimus libero. Provident commodi ut delectus in repudiandae ratione.,SYRAH ,2438.43
+178,35,MerlotHIGUERÓN,Illum eligendi animi mollitia nihil veniam accusantium. Ducimus exercitationem natus vel.,MERLOT ,23764.95
+179,35,TannahSERRANO,Sint modi expedita enim perspiciatis.,TANNAH ,9035.78
+180,36,Cabernet SauvignonY,In suscipit ex sit ipsum adipisci. Incidunt quasi assumenda reiciendis mollitia dolore. Tenetur aliquam id explicabo ducimus tempore laboriosam.,CABERNET SAUVIGNON ,18174.15
+181,36,SyrahFORESTAL,Esse non quo natus mollitia illo. Atque fuga voluptates ab quia doloribus.,SYRAH ,15383.4
+182,36,Petit VerdotVEREDA,Architecto in non vel minima. Autem odio officia hic tempore voluptate.,PETIT VERDOT ,2271.16
+183,36,SyrahGUADALMESÍ,Ipsum maxime vel blanditiis quaerat. Nisi fuga deleniti dolore deleniti nulla. Itaque inventore beatae repudiandae. Ipsum impedit qui totam aliquam.,SYRAH ,21904.18
+184,36,SyrahTREN,Repellat ea eum repellendus blanditiis quas. Repellendus facilis aliquam enim nobis eaque.,SYRAH ,24351.42
+185,37,MerlotLLANO,Incidunt inventore reiciendis aliquam aspernatur nostrum veniam. Repellendus qui eveniet aliquid. Ea tempora voluptatem quis tempore consequatur aliquid.,MERLOT ,13778.05
+186,37,TannahLA,Rerum pariatur quisquam officia quaerat iure. Nulla quasi ratione eaque quas facere ratione.,TANNAH ,20815.05
+187,37,Petit VerdotJEREZ,Ducimus occaecati molestias voluptate cupiditate eligendi. Perferendis debitis in.,PETIT VERDOT ,19472.9
+188,37,MerlotCAMINO,Doloremque nihil exercitationem. Atque exercitationem quos voluptas beatae maiores totam. Laboriosam praesentium deserunt illum rem.,MERLOT ,23308.83
+189,37,MerlotPATRIMONIO,Nihil autem nemo labore in illo asperiores consectetur.,MERLOT ,17480.74
+190,38,MerlotDE,Magni dicta quibusdam. Asperiores quidem aliquam. Non dolore quis repudiandae commodi fugiat voluptate.,MERLOT ,24958.16
+191,38,BonardaDEL,Soluta nulla est vel sint. Ullam libero magni occaecati recusandae porro. Veniam consequatur veniam a aliquid. Eligendi eius amet temporibus quasi corrupti rem.,BONARDA ,10034.83
+192,38,Cabernet FrancDE,Quisquam aliquid corrupti quo ullam facilis. Magni consectetur adipisci nemo quaerat molestias.,CABERNET FRANC ,3110.76
+193,38,Petit VerdotVERDE,Cumque minima incidunt cumque eum aspernatur. Sed optio suscipit ea. Doloribus odio ex quo. Officiis odio unde illo ad.,PETIT VERDOT ,6854.88
+194,38,MerlotFERNANDO,Saepe libero ab quam deleniti. Est repudiandae nesciunt quod ratione provident itaque.,MERLOT ,14902.82
+195,39,BonardaVERDE,Incidunt eveniet non quas minima inventore. Neque eligendi aliquid. Molestias repellat blanditiis quisquam.,BONARDA ,4365.97
+196,39,MalbecCAMINO,Quas facere molestiae. Autem earum accusantium quidem voluptates neque id. Blanditiis dolore reiciendis pariatur.,MALBEC ,10268.4
+197,39,Petit VerdotFARDELA,Ullam eum quidem vitae id.,PETIT VERDOT ,3457.17
+198,39,MerlotRATONES,Quisquam neque laboriosam.,MERLOT ,24887.13
+199,39,MerlotSALINA,Possimus dolorum aliquid ratione. Quidem asperiores nemo nobis quibusdam amet. Incidunt recusandae incidunt porro.,MERLOT ,24388.97
+200,40,SyrahDE,Adipisci quam veniam perspiciatis veniam sapiente a.,SYRAH ,23280.95
+201,40,SyrahSUBIDA,Ut dolor excepturi beatae. Quibusdam repellat error.,SYRAH ,17457.79
+202,40,TannahDE,Labore consequuntur enim deserunt eveniet saepe iste. Libero ab aperiam iure.,TANNAH ,3057.75
+203,40,BonardaLOS,Mollitia molestias nemo. Quis reiciendis distinctio aliquam perspiciatis nobis sint. Rerum explicabo reprehenderit ipsa maiores minima minima natus.,BONARDA ,5796.57
+204,40,MerlotDEL,Est deserunt sint voluptas impedit dicta magnam accusantium. Quisquam nulla ipsa. Minima architecto quod. Mollitia cupiditate ab laborum.,MERLOT ,10944.77
+205,41,Petit VerdotDE,Eum animi exercitationem pariatur impedit. Cumque saepe dolores ipsum necessitatibus.,PETIT VERDOT ,16055.57
+206,41,Petit VerdotDEL,Accusantium sit odit impedit eius tenetur. Eveniet deserunt voluptates voluptatem consectetur. Ad incidunt eius suscipit labore. Quibusdam iure ipsa veniam doloribus.,PETIT VERDOT ,21414.01
+207,41,TannahBARBECHOS,Culpa odit labore eius culpa quaerat rerum. Repellat sed eius alias quis totam fugit.,TANNAH ,22761.4
+208,41,Petit VerdotLADERA,Perferendis nihil maiores architecto dignissimos dolor omnis. Cupiditate ipsa saepe ullam corporis animi. Rerum incidunt soluta a dignissimos expedita.,PETIT VERDOT ,21847.46
+209,41,SyrahLOS,Necessitatibus autem quibusdam veritatis fugiat dolorum.,SYRAH ,7609.16
+210,42,Petit VerdotLAGUNA,Fuga maxime odit. Odio excepturi debitis sint optio corrupti qui.,PETIT VERDOT ,14223.07
+211,42,Cabernet FrancDORNAJO,Nemo optio illum animi ipsam. Soluta excepturi error odit ab.,CABERNET FRANC ,18308.81
+212,42,BonardaCAÑILLO,Consequatur accusantium quo error. Libero sed ratione impedit. Consequuntur possimus cumque qui minus iusto.,BONARDA ,6010.45
+213,42,Cabernet SauvignonFRONTERA-CANTARRANAS,Cum nam ex illum. Veniam in autem quasi accusamus magnam placeat. Animi corporis neque facere delectus ad.,CABERNET SAUVIGNON ,2195.88
+214,42,SyrahSILLETERO,Explicabo earum laborum odio labore. Corporis doloribus perferendis temporibus neque eius sit debitis. Itaque doloribus sit doloremque illo.,SYRAH ,23333.85
+215,43,Cabernet SauvignonLOS,Voluptate voluptate doloremque. Mollitia recusandae sapiente nulla error. Aperiam repellat sit tenetur eum aperiam recusandae aspernatur.,CABERNET SAUVIGNON ,23110.99
+216,43,Cabernet FrancLAS,Aliquam fugiat fugit quia dicta incidunt ducimus. Maiores corrupti voluptates harum ducimus corrupti aliquam iusto. Quis quibusdam aperiam amet illum mollitia labore.,CABERNET FRANC ,13044.8
+217,43,Cabernet SauvignonFÁBRICAS,Alias esse laboriosam dolor eum. Sequi officia reprehenderit nostrum. Sit corrupti assumenda.,CABERNET SAUVIGNON ,7906.03
+218,43,BonardaBACINETE,A ipsam libero necessitatibus dolorem labore. Voluptas in exercitationem nemo distinctio. Amet voluptate praesentium eius.,BONARDA ,20689.07
+219,43,MerlotDEL,Exercitationem non aspernatur voluptate repellat.,MERLOT ,12223.81
+220,44,MerlotBOLONIA-PULIDO,Illo saepe fugiat consequuntur officiis voluptatibus vero. Sunt architecto ducimus nisi. Tempore eaque quo voluptatem et unde voluptate.,MERLOT ,9533.43
+221,44,TannahJEREZ,Doloremque adipisci culpa praesentium similique. Quidem nostrum provident ut cum. Quis ipsum dolorum hic excepturi itaque natus.,TANNAH ,7490.24
+222,44,MerlotLA,Quas veritatis pariatur facere animi qui eum alias. Ullam iure corrupti cumque incidunt.,MERLOT ,7517.05
+223,44,BonardaDEL,Fuga repellat corporis illo libero non asperiores consequuntur. Ad natus eligendi explicabo minus omnis.,BONARDA ,6675.91
+224,44,Cabernet SauvignonDE,Sapiente sit laborum doloribus consequuntur numquam qui. Consequuntur molestias enim. Id quos repellat animi. Ipsa esse voluptates cumque.,CABERNET SAUVIGNON ,2121.75
+225,45,SyrahPUNTA,Mollitia soluta voluptatibus labore. Incidunt dicta eum optio hic sit.,SYRAH ,22537.71
+226,45,BonardaREAL,Nesciunt architecto ad explicabo omnis labore harum. Aspernatur ipsam ducimus.,BONARDA ,19615.94
+227,45,TannahDEL,Mollitia vitae quae ipsa commodi. Reiciendis perspiciatis soluta iure veritatis. Dicta quas porro vero.,TANNAH ,21412.98
+228,45,MerlotGARGANTA,Adipisci dolor odio iure enim. Voluptatibus minus incidunt vero. Architecto nisi hic repellendus eius saepe.,MERLOT ,2787.13
+229,45,Cabernet SauvignonDE,Quod aliquid dolorum eius eius expedita omnis mollitia. Consectetur saepe ea ut.,CABERNET SAUVIGNON ,12019.01
+230,46,Cabernet Franc-,Dolorem molestias eum dolore. Adipisci minus qui reiciendis. Distinctio rerum veniam dignissimos.,CABERNET FRANC ,8632.81
+231,46,MerlotDEL,Voluptates laboriosam perferendis ratione iure laboriosam atque rerum.,MERLOT ,2218.32
+232,46,Syrah-,Aliquam dolorum nisi excepturi. Recusandae dolorem nisi consequuntur. Temporibus blanditiis sed.,SYRAH ,15537.29
+233,46,SyrahCOMPLEJO,Velit eveniet placeat at nam. Doloremque rerum a at cupiditate hic. In doloremque error corrupti saepe quo.,SYRAH ,3943.61
+234,46,SyrahAL,Recusandae quia ducimus vitae. Esse animi beatae dolore. Maxime nisi molestiae atque.,SYRAH ,3197.08
+235,47,Cabernet SauvignonLA,Officia dolore maxime fugit cum sapiente. Praesentium explicabo eos.,CABERNET SAUVIGNON ,10183.06
+236,47,BonardaDEL,Aliquam fugit aperiam accusamus. Delectus voluptates vero.,BONARDA ,13088.94
+237,47,BonardaLA,Aperiam autem corrupti est debitis a minus. Quibusdam aliquam molestias esse laudantium.,BONARDA ,21175.48
+238,47,SyrahDE,Voluptatum aliquid autem optio magni. Veniam accusamus vero soluta expedita. Ipsa ab dolores voluptatum fugit debitis facere.,SYRAH ,16792.46
+239,47,Cabernet SauvignonAL,Perspiciatis veritatis doloremque velit saepe aperiam expedita. Qui quibusdam veritatis. Corporis eius dolorum itaque quia saepe suscipit.,CABERNET SAUVIGNON ,23562.41

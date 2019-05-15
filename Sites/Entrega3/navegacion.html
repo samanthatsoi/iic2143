@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Navegación</title>
+    <link rel="stylesheet" href="index_style.css">
+</head>
+
+<body style="background-color:#373a36">
+       <header>
+        <a href="index.html">
+            <div class="contenedor" id="uno">
+                <img class="icon" src="home.png">
+                <p class="texto">Inicio</p>
+            </div>
+        </a>
+
+        <a href="consultas_index.html">
+            <div class="contenedor" id="dos">
+                <img class="icon" src="database.png" alt="">
+                <p class="texto">Consultas</p>
+            </div>
+        </a>
+         <a href="navegacion.html">
+            <div class="contenedor" id="tres">
+                <img class="icon" src="world.png">
+                <p class="texto">Navegación</p>
+            </div>
+        </a>
+        <a href="info.html">
+            <div class="contenedor" id="cinco">
+                <img class="icon" src="information.png" alt="">
+                <p class="texto">Info</p>
+            </div>
+        </a>
+    </header>
+
+<div class="button_box2">
+<form class="form-wrapper-2 cf" method="post" action="busqueda.php">
+<div class="box">
+<select name ="cat" id="cat">
+    <option value ="hotel">Hotel</option>
+    <option value="restaurante">Restaurante</option>
+    <option value="agencia">Agencia de Turismo</option>
+    <option value="parque">Parque Nacional</option>
+    <option value ="sendero">Sendero</option>
+    <option value="vina">Viña</option>
+  </select>
+</div>
+<input type="text" name="search" placeholder="¿Qué quieres buscar?" required>
+<button type="submit">Buscar</button>
+</form>
+</div>
+
+<div class ="nav">
+    <h1>Navegación</h1>
+
+    <br>
+    <a class="link" href="Navegacion/navega1.php">Ver todos los hoteles y las habitaciones disponibles.</a>
+    <br>
+    <a class="link" href="Navegacion/navega2.php">Ver todos los restaurantes y sus platos disponibles.</a>
+    <br>
+<a class="link" href="Navegacion/navega3.php">Ver todas las agencias de turismo por región junto a los tours que ofrecen.</a>
+    <br>
+    <a class="link" href="Navegacion/navega4.php">Ver todos los parques nacionales, junto a sus senderos y atractivos.</a>
+    <br>
+    <a class="link" href="Navegacion/navega5.php">Ver todas las viñas y los vinos de esa viña.</a>
+    <br>
+    <a class="link" href="Navegacion/navega6.php">Ver todos los tours de enoturismo, junto a las viñas que participan en él y los vinos por viña.</a>
+</div>
+</body>
+
+</html>

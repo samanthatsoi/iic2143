@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Home</title>
+    <link rel="stylesheet" href="index_style.css">
+</head>
+
+<body style="background-color:#373a36">
+       <header>
+        <a href="index.html">
+            <div class="contenedor" id="uno">
+                <img class="icon" src="home.png">
+                <p class="texto">Inicio</p>
+            </div>
+        </a>
+
+        <a href="consultas_index.html">
+            <div class="contenedor" id="dos">
+                <img class="icon" src="database.png" alt="">
+                <p class="texto">Consultas</p>
+            </div>
+        </a>
+         <a href="navegacion.html">
+            <div class="contenedor" id="tres">
+                <img class="icon" src="world.png">
+                <p class="texto">Navegación</p>
+            </div>
+        </a>
+        <a href="info.html">
+            <div class="contenedor" id="cinco">
+                <img class="icon" src="information.png" alt="">
+                <p class="texto">Info</p>
+            </div>
+        </a>
+    </header>
+
+<div class="button_box2">
+<form class="form-wrapper-2 cf" method="post" action="busqueda.php">
+<div class="box">
+<select name ="cat" id="cat">
+    <option value ="hotel">Hotel</option>
+    <option value="restaurante">Restaurante</option>
+    <option value="agencia">Agencia de Turismo</option>
+    <option value="parque">Parque Nacional</option>
+    <option value ="sendero">Sendero</option>
+    <option value="vina">Viña</option>
+  </select>
+</div>
+<input type="text" name="search" placeholder="¿Qué quieres buscar?" required>
+<button type="submit">Buscar</button>
+</form>
+</div>
+
+
+</body>
+</html>
+

@@ -1,0 +1,4 @@
+ nombre_agencia | direccion_agencia | telefono_agencia | id_agencia | id_region | id_tour | descripcion_tour | precio_tour 
+----------------+-------------------+------------------+------------+-----------+---------+------------------+-------------
+(0 rows)
+

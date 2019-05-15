@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Consultas</title>
+    <link rel="stylesheet" href="index_style.css">
+</head>
+
+<body style="background-color:#373a36">
+       <header>
+        <a href="index.html">
+            <div class="contenedor" id="uno">
+                <img class="icon" src="home.png">
+                <p class="texto">Inicio</p>
+            </div>
+        </a>
+
+        <a href="consultas_index.html">
+            <div class="contenedor" id="dos">
+                <img class="icon" src="database.png" alt="">
+                <p class="texto">Consultas</p>
+            </div>
+        </a>
+         <a href="navegacion.html">
+            <div class="contenedor" id="tres">
+                <img class="icon" src="world.png">
+                <p class="texto">Navegación</p>
+            </div>
+        </a>
+        <a href="info.html">
+            <div class="contenedor" id="cinco">
+                <img class="icon" src="information.png" alt="">
+                <p class="texto">Info</p>
+            </div>
+        </a>
+    </header>
+
+<div class="button_box2">
+<form class="form-wrapper-2 cf" method="post" action="busqueda.php">
+<div class="box">
+<select name ="cat" id="cat">
+    <option value ="hotel">Hotel</option>
+    <option value="restaurante">Restaurante</option>
+    <option value="agencia">Agencia de Turismo</option>
+    <option value="parque">Parque Nacional</option>
+    <option value ="sendero">Sendero</option>
+    <option value="vina">Viña</option>
+  </select>
+</div>
+<input type="text" name="search" placeholder="¿Qué quieres buscar?" required>
+<button type="submit">Buscar</button>
+</form>
+</div>
+
+    <h1>Consultas </h1>
+
+    <br>
+
+    <a class="link" href="consultas/consulta1.php">Ver platos de todos los restaurantes dado un número de región</a>
+    <br>
+    <a class="link" href="consultas/consulta2.php">Ver habitaciones según estrellas de los hoteles</a>
+    <br>
+    <a class="link" href="consultas/consulta3.php">Ver las reservas de un usuario i entre las fechas a y b</a>
+    <br>
+    <a class="link" href="consultas/consulta4.php">Ver los tours de las agencias que están presente en solo una
+        región</a>
+    <br>
+    <a class="link" href="consultas/consulta5.php">Ver la habitación más reservada en cada región</a>
+    <br>
+    <a class="link" href="consultas/consulta6.php">Ver usuarios que reservaron la habitación más barata de la región
+        II</a>
+    <br>
+    <a class="link" href="consultas/consulta7.php">Ver el usuario que hizo la reserva i</a>
+    <br>
+    <a class="link" href="consultas/consulta8.php">Ver la i-ésima habitación más cara</a>
+
+</body>
+
+</html>
